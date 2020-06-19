@@ -11,14 +11,13 @@ class App extends Component {
     return (
       <Router>
         <div>
-          <NavBar/>
+          <NavBar />
           <Header />
           <Switch>
             <Route exact path = "/" component={Search}/>
             <Route path = "/saved" component={Saved}/>
           </Switch>
         </div>
-
       </Router>
     );
   }
