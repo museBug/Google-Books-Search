@@ -1,8 +1,8 @@
 import React from "react";
-
+import API from "../utils/API";
 import {BrowserRouter as Router} from "react-router-dom";
 
-class BookResult extends React.Component {
+class BookRes extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -81,4 +81,4 @@ class BookResult extends React.Component {
     }
 }
 
-export default BookResult;
+export default BookRes;
