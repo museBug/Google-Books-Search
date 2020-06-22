@@ -1,5 +1,5 @@
 nav {
-  background-color: #f9c411;
+  background-color: #1c1c20;
   padding: 1rem 0;
 }
 
@@ -17,11 +17,11 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  background-color: #33658A;
+  background-color: #9dbad1;
   height: 100%;
 }
 nav a:visited {
-  color: #33658A;
+  color: #fdf909;
 }
 
 header h1 {
@@ -45,7 +45,7 @@ h3 {
 
 #searchContainer, #resultsContainer {
   color: white;
-  background-color: #33658A;
+  background-color: #081620;
   padding: 2vw;
   margin: 2vw;
   font-size: 3vw;
@@ -68,10 +68,11 @@ input {
 }
 
 button {
-  border-radius: 0;
+  border-radius: 40px;
   border: none;
-  background-color: #f9c411;
-  color: white;
+  size: 50px;
+  background-color: #afb1cf;
+  color: rgb(10, 5, 5);
   padding: .75vw;
   font-size: 1.25vw;
 }
