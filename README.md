@@ -6,15 +6,15 @@ React-based Google Books Search app.
 
 Seach:
 
-![](public/assets/images/search.png)
+![](client/public/assets/images/search.png)
 
 Result:
 
-![](public/assets/images/result.png)
+![](client/public/assets/images/result.png)
 
 Saved:
 
-![](public/assets/assets/images/saved.png)
+![](client/public/assets/assets/images/saved.png)
 
 ## Deployed app: 
 
