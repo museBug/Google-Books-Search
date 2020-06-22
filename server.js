@@ -12,7 +12,7 @@ if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
 
-const mongoURL = process.env.PROD_MONGODB || "mongodb://localhost:27017/googlebooks"
+const mongoURL = process.env.PROD_MONGODB || "mongodb://antidetka:tr2012@ds011399.mlab.com:11399/heroku_xt48987n"
 mongoose.connect(mongoURL, {useNewUrlParser: true})
   .then(() => {
     console.log("🗄 ==> Successfully connected to mongoDB.");
