@@ -14,9 +14,9 @@ Result:
 
 Saved:
 
-![](client/public/assets/assets/images/saved.png)
+![](client/public/assets/images/saved.png)
 
-## Deployed app: 
+## Deployed app: https://morning-retreat-50855.herokuapp.com
 
 ## Installation
             
